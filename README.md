@@ -1,8 +1,8 @@
-Name:
+Name: Evan Terry
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes, executed on device successfully
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Passed the empty test suite with exit code 255.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
